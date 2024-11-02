@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebigeogi.github.io/ZQO/sitemap_index.txt
+Sitemap: https://ebigeogi.github.io/htA/sitemap_index.txt
+Sitemap: https://ebigeogi.github.io/pMP/sitemap_index.txt
+Sitemap: https://ebigeogi.github.io/psY/sitemap_index.txt
